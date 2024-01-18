@@ -4,4 +4,4 @@
 
 * Last updated in: 8th March 2020 as Programming Assignment 5 for the course Cpts 121 - Programming Development & Design in C/C++.
 
-* This program was written in Visual Studios. Ideally, import files to local system and run on Visual Studios.
+* This program was written in Visual Studios. To run, import files to local system and run on Visual Studios.
